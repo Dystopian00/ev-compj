@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+.class
+.swp
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
