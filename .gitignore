@@ -1,3 +1,8 @@
+### Evidencia ###
+.class
+.swp
+/db
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -27,8 +32,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-### Evidencia ###
-.class
-.swp
-/db
