@@ -1,6 +1,9 @@
-### IntelliJ IDEA ###
+### Evidencia ###
 .class
 .swp
+/db
+
+### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
